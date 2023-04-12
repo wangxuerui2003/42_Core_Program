@@ -1,0 +1,7 @@
+obj/
+readline-8.1/
+.vscode/
+.DS_Store
+libft/objs/
+libft/libft.a
+minishell
